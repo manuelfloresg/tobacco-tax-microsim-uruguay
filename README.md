@@ -15,7 +15,7 @@ This repository contains the code, the model inputs and the model outputs behind
   impuesto al tabaco. Microsimulación dinámica de un aumento impositivo en Uruguay, 2025–2060.*
   Documento de Trabajo, Departamento de Economía, FCS-UdelaR, 2026.
 
-Archived version: [ZENODO DOI]. Funding: Universidad Adolfo Ibáñez and Bloomberg Philanthropies (grant 2022-110829).
+Archived version: https://doi.org/10.5281/zenodo.24516151 (all versions). Funding: Universidad Adolfo Ibáñez and Bloomberg Philanthropies (grant 2022-110829).
 See `CITATION.cff`.
 
 *Resumen en español al final.*

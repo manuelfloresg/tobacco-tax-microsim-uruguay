@@ -15,6 +15,8 @@ authors:
 version: "1.0"
 date-released: 2026-11-24
 license: MIT
+doi: 10.5281/zenodo.24516151
+repository-code: "https://github.com/manuelfloresg/tobacco-tax-microsim-uruguay"
 keywords:
   - tobacco taxation
   - microsimulation
