@@ -1,0 +1,51 @@
+anio,estado,estado_lab,n,N_ponderado,share_pond
+2011,1,1 nunca fumo,57448,1480489,0.5581
+2011,2,2 fumador ocasional,4332,113186,0.0427
+2011,3,3 fumador diario,19856,520183,0.1961
+2011,4,4 exfumador reciente (<1 anio),1714,45665,0.0172
+2011,5,5 exfumador consolidado (>=1 anio),19591,493329,0.186
+2014,1,1 nunca fumo,61334,1564625,0.5824
+2014,2,2 fumador ocasional,3698,97500,0.0363
+2014,3,3 fumador diario,18855,499753,0.186
+2014,4,4 exfumador reciente (<1 anio),1343,36163,0.0135
+2014,5,5 exfumador consolidado (>=1 anio),19700,488385,0.1818
+2017,1,1 nunca fumo,55871,1647212,0.5918
+2017,2,2 fumador ocasional,3103,93513,0.0336
+2017,3,3 fumador diario,15941,474089,0.1703
+2017,4,4 exfumador reciente (<1 anio),1133,33863,0.0122
+2017,5,5 exfumador consolidado (>=1 anio),19271,534517,0.1921
+2018,1,1 nunca fumo,53216,1713731,0.6116
+2018,2,2 fumador ocasional,2543,83665,0.0299
+2018,3,3 fumador diario,14145,460325,0.1643
+2018,4,4 exfumador reciente (<1 anio),930,30327,0.0108
+2018,5,5 exfumador consolidado (>=1 anio),17242,514062,0.1835
+2019,1,1 nunca fumo,53851,1735501,0.6157
+2019,2,2 fumador ocasional,2479,81419,0.0289
+2019,3,3 fumador diario,14355,472603,0.1677
+2019,4,4 exfumador reciente (<1 anio),908,29902,0.0106
+2019,5,5 exfumador consolidado (>=1 anio),16657,499270,0.1771
+2021,1,1 nunca fumo,14513,1784155,0.6277
+2021,2,2 fumador ocasional,654,81391,0.0286
+2021,3,3 fumador diario,3561,447280,0.1574
+2021,4,4 exfumador reciente (<1 anio),203,25738,0.0091
+2021,5,5 exfumador consolidado (>=1 anio),4511,503643,0.1772
+2022,1,1 nunca fumo,28970,1844317,0.6453
+2022,2,2 fumador ocasional,1367,85222,0.0298
+2022,3,3 fumador diario,6738,426851,0.1494
+2022,4,4 exfumador reciente (<1 anio),323,20020,0.007
+2022,5,5 exfumador consolidado (>=1 anio),8383,481618,0.1685
+2023,1,1 nunca fumo,29197,1853364,0.6449
+2023,2,2 fumador ocasional,1433,91198,0.0317
+2023,3,3 fumador diario,7014,442996,0.1541
+2023,4,4 exfumador reciente (<1 anio),346,20733,0.0072
+2023,5,5 exfumador consolidado (>=1 anio),8244,465608,0.162
+2024,1,1 nunca fumo,30094,1882720,0.6527
+2024,2,2 fumador ocasional,1594,96927,0.0336
+2024,3,3 fumador diario,6972,438715,0.1521
+2024,4,4 exfumador reciente (<1 anio),362,20760,0.0072
+2024,5,5 exfumador consolidado (>=1 anio),7752,445228,0.1544
+2025,1,1 nunca fumo,30397,1916445,0.6604
+2025,2,2 fumador ocasional,1632,96815,0.0334
+2025,3,3 fumador diario,6846,433729,0.1495
+2025,4,4 exfumador reciente (<1 anio),380,22816,0.0079
+2025,5,5 exfumador consolidado (>=1 anio),7642,432227,0.1489

@@ -1,0 +1,5 @@
+tabla,modelo,formula,familia,enlace,n_obs,n_coef
+P1_hazard_cesacion,modelo_cesacion,"evento ~ ns(edad, df = 4) + sexo + sexo:edad + tercil + anio_c",quasibinomial,logit,144667,11
+P2_hazard_iniciacion,modelo_iniciacion,"prop_evento ~ ns(edad_media_prev, df = 4) + anio_prev_c * I(edad_media_prev <=      EDAD_CORTE_JNDEM) + sexo + offset(TERCIL_OFFSET[as.character(tercil)]) +      offset(log(delta_anios))",quasibinomial,cloglog,636,9
+P3_hazard_recaida_a,"modelo_recaida (pooled, ages 15-44)",hazard_anual ~ log(punto_medio) + sexo,quasibinomial,logit,10,3
+P3_hazard_recaida_b,"modelo_recaida (age-conditional, 45 and over)",hazard_anual ~ log(punto_medio) + sexo + grupo_edad,quasibinomial,logit,50,7

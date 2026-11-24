@@ -1,0 +1,22 @@
+| Grupo etario | Estado de tabaquismo | Personas | % |
+|:---|:---|---:|---:|
+| 15-24 | 1 Nunca fumó | 375.176 | 72,9 |
+| 15-24 | 2 Fumador ocasional | 28.435 | 5,5 |
+| 15-24 | 3 Fumador diario | 81.966 | 15,9 |
+| 15-24 | 4 Exfumador reciente | 8.627 | 1,7 |
+| 15-24 | 5 Exfumador consolidado | 20.339 | 4,0 |
+| 25-44 | 1 Nunca fumó | 479.747 | 52,8 |
+| 25-44 | 2 Fumador ocasional | 50.515 | 5,6 |
+| 25-44 | 3 Fumador diario | 227.096 | 25,0 |
+| 25-44 | 4 Exfumador reciente | 20.711 | 2,3 |
+| 25-44 | 5 Exfumador consolidado | 130.012 | 14,3 |
+| 45-64 | 1 Nunca fumó | 345.623 | 45,5 |
+| 45-64 | 2 Fumador ocasional | 27.180 | 3,6 |
+| 45-64 | 3 Fumador diario | 174.416 | 22,9 |
+| 45-64 | 4 Exfumador reciente | 12.242 | 1,6 |
+| 45-64 | 5 Exfumador consolidado | 200.915 | 26,4 |
+| 65+ | 1 Nunca fumó | 279.481 | 59,6 |
+| 65+ | 2 Fumador ocasional | 6.994 | 1,5 |
+| 65+ | 3 Fumador diario | 36.628 | 7,8 |
+| 65+ | 4 Exfumador reciente | 4.052 | 0,9 |
+| 65+ | 5 Exfumador consolidado | 141.874 | 30,2 |

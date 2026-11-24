@@ -1,0 +1,11 @@
+anio_encuesta,frecuencia,producto,n,n_pond,media_pond,mediana,p25,p75,celda_chica,nivel,fuente
+2006,diario,manufacturado,571,571,14.7215411558669,15,9.5,20,FALSE,frecuencia_producto,STEPS
+2006,ocasional,manufacturado,4,,,,,,TRUE,frecuencia_producto,STEPS
+2006,diario,armado_mano,49,49,11.2244897959184,8,4,15,FALSE,frecuencia_producto,STEPS
+2006,ocasional,armado_mano,1,,,,,,TRUE,frecuencia_producto,STEPS
+2006,diario,otro,1,,,,,,TRUE,frecuencia_producto,STEPS
+2013,diario,manufacturado,578,381984,14.4704111041041,12,8,20,FALSE,frecuencia_producto,STEPS
+2013,diario,armado_mano,111,82932,12.7385291648059,10,6.5,17.5,FALSE,frecuencia_producto,STEPS
+2013,diario,pipa,3,,,,,,TRUE,frecuencia_producto,STEPS
+2013,diario,puro,1,,,,,,TRUE,frecuencia_producto,STEPS
+2013,diario,otro,1,,,,,,TRUE,frecuencia_producto,STEPS

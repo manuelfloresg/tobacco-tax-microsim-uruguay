@@ -1,0 +1,20 @@
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\begin{longtable}{p{2.3cm}p{6.6cm}p{1.6cm}p{1.1cm}rr}
+\caption{\textbf{Table S1.} Estimated transition-rate models: specification and sample.}\\
+\toprule
+\textbf{Transition} & \textbf{Specification} & \textbf{Family} & \textbf{Link} & \textbf{Observations} & \textbf{Coefficients} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Transition} & \textbf{Specification} & \textbf{Family} & \textbf{Link} & \textbf{Observations} & \textbf{Coefficients} \\
+\midrule
+\endhead
+\bottomrule
+\endfoot
+Cessation & logit of the annual rate on a natural spline of age (4 df), sex, sex × age, income tertile and calendar year (centred on 2018) & quasibinomial & logit & 144667 & 11 \\
+Initiation & cloglog of the probability of starting between survey waves on a natural spline of age (4 df), sex, calendar year (centred on 2018) interacted with an indicator of school-survey ages (≤17), a fixed income-tertile offset and log(years between waves) & quasibinomial & cloglog & 636 & 9 \\
+Relapse, ages 15-44 & logit of the annual rate on log(years since quitting) and sex & quasibinomial & logit & 10 & 3 \\
+Relapse, ages 45+ & logit of the annual rate on log(years since quitting), sex and age group & quasibinomial & logit & 50 & 7 \\
+\end{longtable}
+\normalsize

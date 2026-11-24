@@ -1,0 +1,9 @@
+estudio,pais,ingreso_bm,particion,n,resultado,e_bajo,e_alto,clase,diferencia,ratio
+Selvaraj et al. 2015,India,Lower-middle,Expenditure tertiles,"101,662 households",Total elasticity,-0.832,-0.2645,estimado,Not formally tested; T2 anomalous (-0.091),3.14555765595463
+Choi 2016,Korea,High,Income quartiles,KNHANES 1998-2011,Total elasticity,-0.812,-0.325,estimado,Not formally tested; authors report a 2.5-fold difference,2.49846153846154
+Colman & Remler 2008,United States,High,Income tertiles,CEX/NHIS,Total elasticity,-0.37,-0.2,estimado,Not formally tested,1.85
+Mena & Paraje 2024,Ecuador,Upper-middle,Income tertiles,"3,410 households",Total elasticity,-1.592,-1.343,estimado,"Tested: z = -0.29, NOT significant",1.18540580789278
+Keeler et al. 2025,United States,High,Federal poverty level groups,"337,974 adults",Total elasticity,-0.4,-0.4,estimado,Total elasticity flat; gradient appears only between margins,1
+Gallego et al. 2021,Colombia,Upper-middle,Socioeconomic strata,NPSCS 2008 and 2013,Participation elasticity,,,estimado,No SES gradient detected; overall PPE -0.66,1
+Gerstenblüth et al. 2026,Uruguay,High,Expenditure tertiles,"6,889 households",Total elasticity,-1.391,-0.153,no identificado,"T2 SE 21.2, T3 SE 32.6; neither identified",9.09150326797386
+Reynales-Shigematsu et al. 2022,Mexico,Upper-middle,Income quintiles,"ECEA, national",Total elasticity,-0.63,-0.12,supuesto,Not estimated: extrapolated from international literature,5.25

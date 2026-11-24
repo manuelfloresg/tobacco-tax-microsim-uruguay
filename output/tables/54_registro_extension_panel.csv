@@ -1,0 +1,51 @@
+columna,anio,valor_viejo,valor_nuevo,motivo
+cigarrillos_mill,2022,,87.951243,"extension DGI (ratio 1,000)"
+cigarrillos_mill,2023,,81.324554,"extension DGI (ratio 1,000)"
+cigarrillos_mill,2024,,76.772118,"extension DGI (ratio 1,000)"
+cigarrillos_mill,2025,,71.468342,"extension DGI (ratio 1,000)"
+tabaco_mill,2022,,41.906484,"extension DGI (factor 45/20, Decreto 357/024)"
+tabaco_mill,2023,,40.5949725,"extension DGI (factor 45/20, Decreto 357/024)"
+tabaco_mill,2024,,39.27923325,"extension DGI (factor 45/20, Decreto 357/024)"
+tabaco_mill,2025,,37.2825495,"extension DGI (factor 45/20, Decreto 357/024)"
+recaudacion_nominal,1982,,1534495,extension DGI
+n_meses,1982,,12,extension DGI
+recaudacion_nominal,1983,,2045671,extension DGI
+n_meses,1983,,12,extension DGI
+recaudacion_nominal,1984,,2671537,extension DGI
+n_meses,1984,,12,extension DGI
+recaudacion_nominal,1985,,4897499,extension DGI
+n_meses,1985,,12,extension DGI
+recaudacion_nominal,1986,,7766058,extension DGI
+n_meses,1986,,12,extension DGI
+recaudacion_nominal,1987,,12405604,extension DGI
+n_meses,1987,,12,extension DGI
+recaudacion_nominal,1988,,20393838,extension DGI
+n_meses,1988,,12,extension DGI
+recaudacion_nominal,1989,,36102520,extension DGI
+n_meses,1989,,12,extension DGI
+recaudacion_nominal,1990,,79638903,extension DGI
+n_meses,1990,,12,extension DGI
+recaudacion_nominal,1991,,180048892,extension DGI
+n_meses,1991,,12,extension DGI
+recaudacion_nominal,1992,,338065564,extension DGI
+n_meses,1992,,12,extension DGI
+recaudacion_nominal,1993,,513881027,extension DGI
+n_meses,1993,,12,extension DGI
+recaudacion_nominal,1994,,715679459,extension DGI
+n_meses,1994,,12,extension DGI
+recaudacion_nominal,1995,,824759460,extension DGI
+n_meses,1995,,12,extension DGI
+recaudacion_nominal,1996,,1043299827,extension DGI
+n_meses,1996,,12,extension DGI
+recaudacion_nominal,1997,1090988933,1342622834,anio completado (antes parcial)
+n_meses,1997,10,12,anio completado (antes parcial)
+recaudacion_nominal,2022,4211161185,8640061681,anio completado (antes parcial)
+n_meses,2022,6,12,anio completado (antes parcial)
+recaudacion_nominal,2023,,8774716123,extension DGI
+n_meses,2023,,12,extension DGI
+recaudacion_nominal,2024,,8571775034,extension DGI
+n_meses,2024,,12,extension DGI
+recaudacion_nominal,2025,,8532431613,extension DGI
+n_meses,2025,,12,extension DGI
+recaudacion_real,1997,7948259883,,nominal completado; no recalculable con IPC mensual (corta 2022-06)
+recaudacion_real,2022,4293212513,,nominal completado; no recalculable con IPC mensual (corta 2022-06)

@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite them as below."
+title: "The timing of tobacco tax effects: a dynamic microsimulation of an excise increase in Uruguay, 2025-2060. Replication package"
+authors:
+  - family-names: Flores
+    given-names: Manuel
+    affiliation: "Departamento de Economía, Facultad de Ciencias Sociales, Universidad de la República"
+    email: manuel.flores@cienciassociales.edu.uy
+  - family-names: Gerstenblüth
+    given-names: Mariana
+    affiliation: "Departamento de Economía, Facultad de Ciencias Sociales, Universidad de la República"
+  - family-names: Pruzzo
+    given-names: Luca
+    affiliation: "Escuela de Negocios, Universidad Adolfo Ibáñez"
+version: "1.0"
+date-released: 2026-11-24
+license: MIT
+keywords:
+  - tobacco taxation
+  - microsimulation
+  - Uruguay
+  - health inequality

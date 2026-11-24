@@ -1,0 +1,69 @@
+clave,valor,unidad,fuente
+t1_consumo_pct_gradual_2030,-7.213992,%,59_espacio_escenarios_comparado.csv
+t1_recaudacion_gradual_2030,1.305826,ratio,59_espacio_escenarios_comparado.csv
+t1_consumo_pct_gradual_2045,-12.366593,%,59_espacio_escenarios_comparado.csv
+t1_recaudacion_gradual_2045,1.322553,ratio,59_espacio_escenarios_comparado.csv
+t1_consumo_pct_gradual_2060,-14.375775,%,59_espacio_escenarios_comparado.csv
+t1_recaudacion_gradual_2060,1.29223,ratio,59_espacio_escenarios_comparado.csv
+t1_consumo_pct_conv75_gradual_2060,-14.375775,%,59_espacio_escenarios_comparado.csv
+t1_consumo_pct_conv75_abrupto_2060,-14.50909,%,59_espacio_escenarios_comparado.csv
+t1_consumo_pct_convEU_gradual_2060,-27.031398,%,59_espacio_escenarios_comparado.csv
+ic95_lo_caida_consumo_pct_2060,-17.837898,-,77_mc_bandas.csv (capa 1 + prior)
+ic95_hi_caida_consumo_pct_2060,-11.088042,-,77_mc_bandas.csv (capa 1 + prior)
+ic95_lo_caida_prevalencia_pct_2060,-8.149641,-,77_mc_bandas.csv (capa 1 + prior)
+ic95_hi_caida_prevalencia_pct_2060,-4.952029,-,77_mc_bandas.csv (capa 1 + prior)
+ic95_lo_recaudacion_relativa_2060,1.23998,-,77_mc_bandas.csv (capa 1 + prior)
+ic95_hi_recaudacion_relativa_2060,1.341848,-,77_mc_bandas.csv (capa 1 + prior)
+prev_pct_gradual_2060,-6.530812,%,59_espacio_escenarios_comparado.csv
+fumadores_pct_gradual_2060,-6.450666,%,59_espacio_escenarios_comparado.csv
+panelA_variantes_efecto_negativo,5,de 5,79_razon_efecto_politica_envolvente.csv
+panelA_variantes_T1_cae_mas_pp,5,de 5,79_razon_prevalencia_envolvente.csv
+panelA_pct_ensanchamiento_min,58.545769,%,79_razon_prevalencia_envolvente.csv
+panelA_pct_ensanchamiento_max,98.279032,%,79_razon_prevalencia_envolvente.csv
+panelB_fumadores_pct_keeler_acotado_2060,-6.450666,%,75_margen_agregado.csv
+panelB_fumadores_pct_uniforme_50_2060,-6.059804,%,75_margen_agregado.csv
+panelB_fumadores_pct_keeler_literal_2060,-8.122177,%,75_margen_agregado.csv
+panelC_envolvente_min_2060,-1.919588,pp,72_sensibilidad_t1_progresividad.csv
+panelC_envolvente_max_2060,0.504319,pp,72_sensibilidad_t1_progresividad.csv
+panelC_central_2060,-1.427748,pp,72_sensibilidad_t1_progresividad.csv
+razon_T1_T3_base_2025,1.635145,-,79_razon_prevalencia_ramas.csv
+prev_T1_base_2025,27.182315,%,79_razon_prevalencia_ramas.csv
+prev_T2_base_2025,19.568077,%,79_razon_prevalencia_ramas.csv
+prev_T3_base_2025,16.623795,%,79_razon_prevalencia_ramas.csv
+razon_T1_T3_base_2060,2.209416,-,79_razon_prevalencia_ramas.csv
+prev_T1_base_2060,23.230104,%,79_razon_prevalencia_ramas.csv
+prev_T2_base_2060,14.674649,%,79_razon_prevalencia_ramas.csv
+prev_T3_base_2060,10.514137,%,79_razon_prevalencia_ramas.csv
+razon_T1_T3_gradual_2060,2.063648,-,79_razon_prevalencia_ramas.csv
+brecha_pp_base_2025,10.55852,pp,79_razon_prevalencia_ramas.csv
+brecha_pp_base_2060,12.715967,pp,79_razon_prevalencia_ramas.csv
+share_extensivo_pct_2030,6.83523,%,59_espacio_escenarios_comparado.csv
+share_extensivo_pct_2045,35.140097,%,59_espacio_escenarios_comparado.csv
+share_extensivo_pct_2060,42.964186,%,59_espacio_escenarios_comparado.csv
+factor_impuesto_conv75_abrupto,51.64289,% sobre el impuesto real,59_trayectorias_impuesto.csv
+factor_impuesto_conv75_gradual,51.64289,% sobre el impuesto real,59_trayectorias_impuesto.csv
+factor_impuesto_convEU_gradual,124.091119,% sobre el impuesto real,59_trayectorias_impuesto.csv
+suba_imesi_conv75_abrupto,57.253,% sobre el IMESI real,59_trayectorias_impuesto.csv
+suba_tributo_total_conv75_abrupto,50.918787,% sobre IMESI + IVA por cajilla,59_trayectorias_impuesto.csv
+suba_precio_conv75_abrupto,33.88,% sobre el precio del statu quo,59_trayectorias_impuesto.csv
+suba_imesi_conv75_gradual,57.253,% sobre el IMESI real,59_trayectorias_impuesto.csv
+suba_tributo_total_conv75_gradual,50.918787,% sobre IMESI + IVA por cajilla,59_trayectorias_impuesto.csv
+suba_precio_conv75_gradual,33.88,% sobre el precio del statu quo,59_trayectorias_impuesto.csv
+suba_imesi_convEU_gradual,137.57954,% sobre el IMESI real,59_trayectorias_impuesto.csv
+suba_tributo_total_convEU_gradual,122.35707,% sobre IMESI + IVA por cajilla,59_trayectorias_impuesto.csv
+suba_precio_convEU_gradual,81.409214,% sobre el precio del statu quo,59_trayectorias_impuesto.csv
+bracket_dentro_15-24,9,de 9 anios,80_resumen_dentro_bracket.csv
+bracket_exceso_max_15-24,0,pp,80_resumen_dentro_bracket.csv
+bracket_dentro_25-44,5,de 9 anios,80_resumen_dentro_bracket.csv
+bracket_exceso_max_25-44,0,pp,80_resumen_dentro_bracket.csv
+bracket_dentro_45-64,1,de 9 anios,80_resumen_dentro_bracket.csv
+bracket_exceso_max_45-64,3.809108,pp,80_resumen_dentro_bracket.csv
+bracket_dentro_65+,0,de 9 anios,80_resumen_dentro_bracket.csv
+bracket_exceso_max_65+,4.427529,pp,80_resumen_dentro_bracket.csv
+deff_mediana,1.167474,-,80_deff_medido_resumen.csv
+ruido_de_caida_consumo_pct_2060,0.190983,pp,77_mc_ruido_resumen.csv
+ruido_de_caida_prevalencia_pct_2060,0.155695,pp,77_mc_ruido_resumen.csv
+ruido_de_recaudacion_relativa_2060,0.002882,pp,77_mc_ruido_resumen.csv
+aporte_hazard_pct_caida_consumo_pct_2060,0.019173,% del ancho,77_mc_aporte_fuentes.csv
+aporte_hazard_pct_caida_prevalencia_pct_2060,-0.052043,% del ancho,77_mc_aporte_fuentes.csv
+aporte_hazard_pct_recaudacion_relativa_2060,0.019173,% del ancho,77_mc_aporte_fuentes.csv

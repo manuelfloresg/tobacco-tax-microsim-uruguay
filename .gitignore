@@ -1,0 +1,13 @@
+# Survey microdata never enter the repository: only the README and the INE projections are versioned.
+data/raw/*
+!data/raw/README.md
+!data/raw/Proyecciones_poblacion/
+data/interim/panel_personas*
+# Run outputs
+logs/*
+!logs/.gitkeep
+output/tables/*_parte*.csv
+output/tables/*_prueba.csv
+**/preview/
+.Rhistory
+.RData

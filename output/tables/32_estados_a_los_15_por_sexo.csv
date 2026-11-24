@@ -1,0 +1,11 @@
+sexo,estado,estado_lab,N_pond,n,share
+mujer,1,1 nunca fumo,258358,6003,0.9872
+mujer,2,2 fumador ocasional,1185,32,0.0045
+mujer,3,3 fumador diario,1154,38,0.0044
+mujer,4,4 exfumador reciente (<1 anio),420,10,0.0016
+mujer,5,5 exfumador consolidado (>=1 anio),587,22,0.0022
+varon,1,1 nunca fumo,290988,6342,0.9846
+varon,2,2 fumador ocasional,1497,47,0.0051
+varon,3,3 fumador diario,2566,83,0.0087
+varon,4,4 exfumador reciente (<1 anio),271,10,9e-04
+varon,5,5 exfumador consolidado (>=1 anio),226,8,8e-04

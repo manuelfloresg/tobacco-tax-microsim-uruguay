@@ -1,0 +1,7 @@
+anio,n,n_valido,prev_30d_o_similar,variable_usada,cobertura_edad
+1998,3658,3658,0.3259,"fumador (binaria, enunciado exacto no verificado contra formulario)","solo grupos etarios, sin edad continua"
+2006,6607,6607,0.3404,"prev_tabaco_30 (base_2001_2018.dta), peso=expansor (n_con_peso=6607 de 6607)",edad continua
+2011,5000,5000,0.3101,"prev_tabaco_30 (base_2001_2018.dta), peso=expansor (n_con_peso=5000 de 5000)",edad continua
+2014,9930,9930,0.2954,"prev_tabaco_30 (base_2001_2018.dta), peso=expansor (n_con_peso=4355 de 9930)",edad continua
+2018,4720,4720,0.2792,"prev_tabaco_30 (base_2001_2018.dta), peso=expansor (n_con_peso=4720 de 4720)",edad continua
+2024,5354,5354,0.2418,"P5/P7/P9 combinadas (jnd_2024.dta, ultimos 30 dias, reconstruye NA de salto de filtro)","edad continua, TOPE EN 65 (no hay 65+ en esta ola)"

@@ -1,0 +1,7 @@
+cohorte,edad,prob_acum_ever_diario_gats,stock_diario_ech,n,cumple_desigualdad_esperada
+1970,35,0.3755,0.248,3502,TRUE
+1980,25,0.4276,0.2449,3330,TRUE
+1980,30,0.4362,0.2512,7587,TRUE
+1980,35,0.4256,0.2253,6369,TRUE
+1990,20,0.2316,0.1287,8419,TRUE
+1990,25,0.2955,0.1611,6470,TRUE

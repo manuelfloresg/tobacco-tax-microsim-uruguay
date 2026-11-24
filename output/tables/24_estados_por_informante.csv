@@ -1,0 +1,91 @@
+anio,directo,estado,estado_lab,n,N_pond,share
+2014,FALSE,1,1 nunca fumo,31160,807893,0.6457
+2014,FALSE,2,2 fumador ocasional,1664,44277,0.0354
+2014,FALSE,3,3 fumador diario,8025,215285,0.1721
+2014,FALSE,4,4 exfumador reciente (<1 anio),481,12962,0.0104
+2014,FALSE,5,5 exfumador consolidado (>=1 anio),6748,170869,0.1366
+2014,TRUE,1,1 nunca fumo,30174,756732,0.5273
+2014,TRUE,2,2 fumador ocasional,2034,53223,0.0371
+2014,TRUE,3,3 fumador diario,10830,284468,0.1982
+2014,TRUE,4,4 exfumador reciente (<1 anio),862,23201,0.0162
+2014,TRUE,5,5 exfumador consolidado (>=1 anio),12952,317516,0.2212
+2017,FALSE,1,1 nunca fumo,28214,881428,0.6671
+2017,FALSE,2,2 fumador ocasional,1308,41747,0.0316
+2017,FALSE,3,3 fumador diario,6412,202471,0.1532
+2017,FALSE,4,4 exfumador reciente (<1 anio),351,11029,0.0083
+2017,FALSE,5,5 exfumador consolidado (>=1 anio),6267,184612,0.1397
+2017,TRUE,1,1 nunca fumo,27657,765784,0.5238
+2017,TRUE,2,2 fumador ocasional,1795,51766,0.0354
+2017,TRUE,3,3 fumador diario,9529,271618,0.1858
+2017,TRUE,4,4 exfumador reciente (<1 anio),782,22834,0.0156
+2017,TRUE,5,5 exfumador consolidado (>=1 anio),13004,349905,0.2393
+2018,FALSE,1,1 nunca fumo,26751,923028,0.6878
+2018,FALSE,2,2 fumador ocasional,1076,37662,0.0281
+2018,FALSE,3,3 fumador diario,5605,195048,0.1453
+2018,FALSE,4,4 exfumador reciente (<1 anio),290,10097,0.0075
+2018,FALSE,5,5 exfumador consolidado (>=1 anio),5484,176119,0.1312
+2018,TRUE,1,1 nunca fumo,26465,790703,0.5415
+2018,TRUE,2,2 fumador ocasional,1467,46003,0.0315
+2018,TRUE,3,3 fumador diario,8540,265277,0.1817
+2018,TRUE,4,4 exfumador reciente (<1 anio),640,20230,0.0139
+2018,TRUE,5,5 exfumador consolidado (>=1 anio),11758,337943,0.2314
+2019,FALSE,1,1 nunca fumo,26843,931535,0.6927
+2019,FALSE,2,2 fumador ocasional,1006,35915,0.0267
+2019,FALSE,3,3 fumador diario,5591,198300,0.1475
+2019,FALSE,4,4 exfumador reciente (<1 anio),266,9212,0.0069
+2019,FALSE,5,5 exfumador consolidado (>=1 anio),5229,169744,0.1262
+2019,TRUE,1,1 nunca fumo,27008,803966,0.5454
+2019,TRUE,2,2 fumador ocasional,1473,45504,0.0309
+2019,TRUE,3,3 fumador diario,8764,274303,0.1861
+2019,TRUE,4,4 exfumador reciente (<1 anio),642,20690,0.014
+2019,TRUE,5,5 exfumador consolidado (>=1 anio),11428,329526,0.2236
+2021,FALSE,1,1 nunca fumo,7395,994832,0.7024
+2021,FALSE,2,2 fumador ocasional,259,36088,0.0255
+2021,FALSE,3,3 fumador diario,1396,196619,0.1388
+2021,FALSE,4,4 exfumador reciente (<1 anio),56,7700,0.0054
+2021,FALSE,5,5 exfumador consolidado (>=1 anio),1465,181015,0.1278
+2021,TRUE,1,1 nunca fumo,7118,789323,0.5535
+2021,TRUE,2,2 fumador ocasional,395,45303,0.0318
+2021,TRUE,3,3 fumador diario,2165,250661,0.1758
+2021,TRUE,4,4 exfumador reciente (<1 anio),147,18038,0.0126
+2021,TRUE,5,5 exfumador consolidado (>=1 anio),3046,322628,0.2263
+2022,FALSE,1,1 nunca fumo,15103,1063051,0.7185
+2022,FALSE,2,2 fumador ocasional,582,41060,0.0278
+2022,FALSE,3,3 fumador diario,2687,193739,0.1309
+2022,FALSE,4,4 exfumador reciente (<1 anio),98,6896,0.0047
+2022,FALSE,5,5 exfumador consolidado (>=1 anio),2717,174803,0.1181
+2022,TRUE,1,1 nunca fumo,13867,781266,0.5668
+2022,TRUE,2,2 fumador ocasional,785,44162,0.032
+2022,TRUE,3,3 fumador diario,4051,233112,0.1691
+2022,TRUE,4,4 exfumador reciente (<1 anio),225,13124,0.0095
+2022,TRUE,5,5 exfumador consolidado (>=1 anio),5666,306815,0.2226
+2023,FALSE,1,1 nunca fumo,14956,1034872,0.7124
+2023,FALSE,2,2 fumador ocasional,601,41981,0.0289
+2023,FALSE,3,3 fumador diario,2898,201481,0.1387
+2023,FALSE,4,4 exfumador reciente (<1 anio),103,7065,0.0049
+2023,FALSE,5,5 exfumador consolidado (>=1 anio),2675,167180,0.1151
+2023,TRUE,1,1 nunca fumo,14241,818492,0.5759
+2023,TRUE,2,2 fumador ocasional,832,49217,0.0346
+2023,TRUE,3,3 fumador diario,4116,241515,0.1699
+2023,TRUE,4,4 exfumador reciente (<1 anio),243,13668,0.0096
+2023,TRUE,5,5 exfumador consolidado (>=1 anio),5569,298428,0.21
+2024,FALSE,1,1 nunca fumo,15232,1044444,0.7208
+2024,FALSE,2,2 fumador ocasional,644,43614,0.0301
+2024,FALSE,3,3 fumador diario,2761,194799,0.1344
+2024,FALSE,4,4 exfumador reciente (<1 anio),104,6820,0.0047
+2024,FALSE,5,5 exfumador consolidado (>=1 anio),2500,159328,0.11
+2024,TRUE,1,1 nunca fumo,14862,838276,0.584
+2024,TRUE,2,2 fumador ocasional,950,53313,0.0371
+2024,TRUE,3,3 fumador diario,4211,243916,0.1699
+2024,TRUE,4,4 exfumador reciente (<1 anio),258,13940,0.0097
+2024,TRUE,5,5 exfumador consolidado (>=1 anio),5252,285900,0.1992
+2025,FALSE,1,1 nunca fumo,15281,1067572,0.7236
+2025,FALSE,2,2 fumador ocasional,686,46544,0.0315
+2025,FALSE,3,3 fumador diario,2720,197982,0.1342
+2025,FALSE,4,4 exfumador reciente (<1 anio),125,8583,0.0058
+2025,FALSE,5,5 exfumador consolidado (>=1 anio),2442,154582,0.1048
+2025,TRUE,1,1 nunca fumo,15116,848873,0.595
+2025,TRUE,2,2 fumador ocasional,946,50271,0.0352
+2025,TRUE,3,3 fumador diario,4126,235747,0.1652
+2025,TRUE,4,4 exfumador reciente (<1 anio),255,14233,0.01
+2025,TRUE,5,5 exfumador consolidado (>=1 anio),5200,277645,0.1946

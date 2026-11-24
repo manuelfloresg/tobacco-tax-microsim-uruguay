@@ -1,0 +1,4 @@
+id,afirmacion_anterior,problema,valor_corregido
+E1,"El ratio uruguayo implicito es 2,18x y cae en el centro del rango externo","2,18 = T1 / promedio muestral, no T1 / T3. El ratio de los puntuales es 9,09. El 2,18 era el ratio de la especificacion vieja del propio motor: corroboracion circular.",9.09 (no identificado)
+E2,"Ecuador aporta un gradiente de aproximadamente 2,5x","Mena & Paraje (2024) Tabla 2 da T1 -1,592 y T3 -1,343 (ratio 1,19) y su Tabla 3 da z = -0,29: la diferencia NO es significativa.",1.19 (no significativo)
+E3,"Keeler et al. 2025 aporta un gradiente de aproximadamente 1,3x","El 1,3x de Keeler es en PARTICIPACION. Su elasticidad total es -0,40 en pobres y -0,40 en altos: ratio 1,00.",1.00 (total)

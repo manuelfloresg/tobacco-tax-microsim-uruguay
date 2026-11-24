@@ -1,0 +1,4 @@
+reparto,share_ext_T1,share_ext_T2,share_ext_T3,share_ext_promedio_ponderado,elast_ext_T1,elast_ext_T2,elast_ext_T3,elast_int_T1,elast_int_T2,elast_int_T3,fuente
+uniforme_50,0.5,0.5,0.5,0.5,-0.406223164722346,-0.30466737354176,-0.203111582361173,-0.406223164722346,-0.30466737354176,-0.203111582361173,"Goodchild et al., convencion 50/50; usada por Ferre et al. (2025). Especificacion vigente."
+keeler_literal,1,0.421052631578947,0,0.548430614040186,-0.812446329444692,-0.256561998772008,0,0,-0.352772748311511,-0.406223164722346,"Keeler et al. (2025) NTR, TUS-CPS n=337.974, coeficientes n.s. leidos como cero."
+keeler_acotado,0.63174155472706,0.462838549358762,0.34,0.5,-0.513256107295683,-0.282023610414024,-0.138115876005598,-0.299190222149009,-0.327311136669495,-0.268107288716748,"Forma de Keeler et al. (2025); T3 anclado en el piso 0,34 y promedio ponderado forzado a 0,50, ambos de Gerstenbluth et al. (2026)."

@@ -1,0 +1,3 @@
+fuente,anio_inicial,anio_final,intensidad_media_todos_fumadores_ini,intensidad_media_todos_fumadores_fin,delta_total_observado,componente_intensidad_condicional,componente_composicion,identidad_ok
+STEPS,2006,2013,13.6076180563548,13.7428270656664,0.135209009311549,0.012540529227925,0.122668480083622,TRUE
+GATS,2009,2017,12.786943116355,13.1750901549996,0.388147038644604,0.0266384923161121,0.361508546328493,TRUE

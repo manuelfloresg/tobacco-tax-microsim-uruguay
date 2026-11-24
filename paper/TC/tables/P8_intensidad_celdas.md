@@ -1,0 +1,18 @@
+| Frequency | Sex | Age group | n in cell | Distribution from | Weighted mean | p25 | p50 | p75 |
+|:---|:---|:---|---:|:---|---:|---:|---:|---:|
+| Daily | Women | 15-24 | 85 | own cell | 11.44 | 5.00 | 10.00 | 15.00 |
+| Daily | Women | 25-44 | 403 | own cell | 13.20 | 7.00 | 10.00 | 20.00 |
+| Daily | Women | 45-64 | 343 | own cell | 13.19 | 6.00 | 10.00 | 20.00 |
+| Daily | Women | 65+ | 90 | own cell | 12.61 | 6.00 | 10.00 | 20.00 |
+| Daily | Men | 15-24 | 111 | own cell | 13.07 | 7.00 | 10.00 | 18.00 |
+| Daily | Men | 25-44 | 470 | own cell | 17.29 | 10.00 | 15.00 | 20.00 |
+| Daily | Men | 45-64 | 430 | own cell | 18.83 | 10.00 | 20.00 | 20.00 |
+| Daily | Men | 65+ | 127 | own cell | 15.08 | 9.00 | 10.00 | 20.00 |
+| Occasional | Women | 15-24 | 29 | collapsed over age | 1.42 | 0.43 | 0.71 | 1.43 |
+| Occasional | Women | 25-44 | 82 | own cell | 1.58 | 0.43 | 0.71 | 2.86 |
+| Occasional | Women | 45-64 | 41 | collapsed over age | 1.42 | 0.43 | 0.71 | 1.43 |
+| Occasional | Women | 65+ | 10 | collapsed over age | 1.42 | 0.43 | 0.71 | 1.43 |
+| Occasional | Men | 15-24 | 40 | collapsed over age | 2.05 | 0.43 | 1.43 | 2.86 |
+| Occasional | Men | 25-44 | 101 | own cell | 1.59 | 0.43 | 1.43 | 2.86 |
+| Occasional | Men | 45-64 | 40 | collapsed over age | 2.05 | 0.43 | 1.43 | 2.86 |
+| Occasional | Men | 65+ | 25 | collapsed over age | 2.05 | 0.43 | 1.43 | 2.86 |

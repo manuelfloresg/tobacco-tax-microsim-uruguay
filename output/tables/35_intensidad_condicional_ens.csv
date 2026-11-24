@@ -1,0 +1,17 @@
+frecuencia,sexo,grupo_etario,n,n_pond,media_pond,mediana,p25,p75,celda_chica,nivel,fuente,anio_encuesta
+ocasional,varon,65+,7,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+diario,mujer,45-64,131,75320,14.2885864662301,10,5,20,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,varon,45-64,121,60577,13.8278522743394,10,0,20,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,mujer,15-24,34,28865,12.7185340499744,8,3,14.25,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,varon,65+,34,14749,13.6800057418966,10,0.5,20,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,varon,25-44,123,74713,12.3349596274836,10,5,20,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,mujer,65+,33,14096,10.3729914939115,10,3,15,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,varon,15-24,37,27660,12.87878821651,10,5,20,FALSE,frecuencia_sexo_edad,ENS,2014
+diario,mujer,25-44,101,83804,13.3792882497709,10,5,15,FALSE,frecuencia_sexo_edad,ENS,2014
+ocasional,varon,25-44,9,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,varon,45-64,8,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,varon,15-24,4,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,mujer,15-24,1,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,mujer,45-64,5,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,mujer,25-44,8,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
+ocasional,mujer,65+,1,,,,,,TRUE,frecuencia_sexo_edad,ENS,2014
