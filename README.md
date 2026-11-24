@@ -13,7 +13,7 @@ This repository contains the code, the model inputs and the model outputs behind
   of an excise increase in Uruguay, 2025–2060.* Manuscript submitted for publication.
 - Flores M, Gerstenblüth M, Pruzzo L. *Distribución temporal de los efectos de un
   impuesto al tabaco. Microsimulación dinámica de un aumento impositivo en Uruguay, 2025–2060.*
-  Documento de Trabajo, Departamento de Economía, FCS-UdelaR, 2026.
+  Working paper, Tabaconomía, forthcoming.
 
 Archived version: https://doi.org/10.5281/zenodo.24516151 (all versions). Funding: Universidad Adolfo Ibáñez and Bloomberg Philanthropies (grant 2022-110829).
 See `CITATION.cff`.
@@ -54,10 +54,9 @@ bash reproducir_figuras_tablas.sh
 Reads `output/tables/` and writes the figures and tables of the article (`paper/TC/figures/`,
 `paper/TC/tables/`, `paper/TC/supp/tables/`) and of the working paper, in Spanish
 (`informe/figuras/`, `informe/tablas/`). Does not run the model. The outputs in this package are
-those of the article. The working paper as circulated used an earlier run, before the fiscal
-anchor was updated to the 2024 WHO tax profile, so the Spanish figures and tables regenerated here
-differ from its published numbers (for example, the 2060 fall in consumption is 15.5% there and
-14.4% here).
+those of the article. The working paper uses an earlier run, before the fiscal anchor was updated
+to the 2024 WHO tax profile, so the Spanish figures and tables regenerated here differ from its
+numbers (for example, the 2060 fall in consumption is 15.5% there and 14.4% here).
 
 ### Level 2 — the simulation (about two days)
 
@@ -184,9 +183,9 @@ to the terms of their producers.
 
 ## Resumen en español
 
-Paquete de replicación del Documento de Trabajo *Distribución temporal de los efectos de un
-impuesto al tabaco. Microsimulación dinámica de un aumento impositivo en Uruguay, 2025–2060* y
-del artículo asociado.
+Paquete de replicación del artículo *The timing of tobacco tax effects* y del documento de
+trabajo *Distribución temporal de los efectos de un impuesto al tabaco. Microsimulación dinámica
+de un aumento impositivo en Uruguay, 2025–2060* (Tabaconomía, en prensa).
 
 - **Nivel 1** (`bash reproducir_figuras_tablas.sh`, minutos): regenera todas las figuras y tablas
   del documento y del artículo a partir de `output/tables/`, sin correr el modelo.
